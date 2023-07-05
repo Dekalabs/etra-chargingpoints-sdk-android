@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <!--ERRORS-->
+    <string name="ERROR_NO_INTERNET">No tienes conexión a Internet</string>
+    <string name="ERROR_TIMEOUT">Tiempo de espera excedido, por favor inténtalo otra vez</string>
+    <string name="ERROR_UNKNOWN">Error inesperado, por favor inténtalo otra vez</string>
+
+</resources>
